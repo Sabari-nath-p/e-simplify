@@ -39932,9 +39932,9 @@ g=A.h8(!1,!0,A.bu(i,A.d2("Mock Test",A.e_(i,i,B.i,i,i,i,i,i,i,i,i,18,i,i,B.V,i,i
 s=A.fU(12)
 e.push(A.bu(i,A.ql(A.a([g,A.h8(!1,!0,A.bu(i,A.d2("Video Class",A.e_(i,i,B.i,i,i,i,i,i,i,i,i,18,i,i,B.V,i,i,!0,i,i,i,i,i,i,i,i),i,i),i,i,new A.cK(B.bg,i,i,s,i,i,B.R),i,new A.aN(20,0,20,0),new A.aN(12,8,12,8),i),i,!0,i,i,i,i,i,i,i,i,i,new A.afw(a),i)],d),B.aW,B.cB,B.b3),i,i,i,i,new A.aN(5,5,5,5),i,i))}g=this.d
 if(g!=="IN"&&g!==""){g=A.fU(12)
-g=A.h8(!1,!0,A.bu(i,A.d2("Contact Us",A.e_(i,i,B.i,i,i,i,i,i,i,i,i,18,i,i,B.V,i,i,!0,i,i,i,i,i,i,i,i),i,i),i,i,new A.cK(B.bg,i,i,g,i,i,B.R),i,i,new A.aN(12,8,12,8),i),i,!0,i,i,i,i,i,i,i,i,i,new A.afx(a),i)
+g=A.h8(!1,!0,A.bu(i,A.d2("Login",A.e_(i,i,B.i,i,i,i,i,i,i,i,i,18,i,i,B.V,i,i,!0,i,i,i,i,i,i,i,i),i,i),i,i,new A.cK(B.bg,i,i,g,i,i,B.R),i,i,new A.aN(12,8,12,8),i),i,!0,i,i,i,i,i,i,i,i,i,new A.afx(a),i)
 s=A.fU(12)
-e.push(A.bu(i,A.ql(A.a([g,A.h8(!1,!0,A.bu(i,A.d2("Login",A.e_(i,i,B.i,i,i,i,i,i,i,i,i,18,i,i,B.V,i,i,!0,i,i,i,i,i,i,i,i),i,i),i,i,new A.cK(B.bg,i,i,s,i,i,B.R),i,new A.aN(20,0,20,0),new A.aN(12,8,12,8),i),i,!0,i,i,i,i,i,i,i,i,i,new A.afy(),i)],d),B.aW,B.cB,B.b3),i,i,i,i,new A.aN(5,5,5,5),i,i))}e.push(A.dz(i,40,i))
+e.push(A.bu(i,A.ql(A.a([g,A.h8(!1,!0,A.bu(i,A.d2("Contact Us",A.e_(i,i,B.i,i,i,i,i,i,i,i,i,18,i,i,B.V,i,i,!0,i,i,i,i,i,i,i,i),i,i),i,i,new A.cK(B.bg,i,i,s,i,i,B.R),i,new A.aN(20,0,20,0),new A.aN(12,8,12,8),i),i,!0,i,i,i,i,i,i,i,i,i,new A.afy(),i)],d),B.aW,B.cB,B.b3),i,i,i,i,new A.aN(5,5,5,5),i,i))}e.push(A.dz(i,40,i))
 g=this.e
 if(g.length!==0)e.push(A.d2("Our Courses",A.e_(i,i,new A.a_(h),i,i,i,i,i,i,i,i,22,i,i,B.eW,i,i,!0,i,i,i,i,i,i,i,i),i,i))
 if(g.length!==0){s=A.fU(20)
